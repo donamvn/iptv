@@ -1,0 +1,147 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6047gMa.jpg" tvg-id="2c1710e833bb62b73688aed83138a36a" tvg-chno="1",VTV1 HD
+http://10.0.10.14:9981/stream/channelid/1745884972?profile=pass
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pqPWPzf.jpg" tvg-id="852f8821c0a2a28cedb354a200490f10" tvg-chno="2",VTV2 HD
+http://10.0.10.14:9981/stream/channelid/562573189?profile=pass
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Bsaeckx.jpg" tvg-id="514fe274da91c5c824ed4f089c90d164" tvg-chno="3",VTV3 HD
+http://10.0.10.14:9981/stream/channelid/1960988497?profile=pass
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jWfsKve.png" tvg-id="b94249ba7b0921373e9b24bbc9159c4b" tvg-chno="4",VTV4 HD
+http://10.0.10.14:9981/stream/channelid/977879737?profile=pass
+#EXTINF:-1 tvg-logo="https://i.imgur.com/d3dvKNa.jpg" tvg-id="918248fa81c4b381d23c9aeaacc4953f" tvg-chno="5",VTV5 HD
+http://10.0.10.14:9981/stream/channelid/2051572369?profile=pass
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fCpZa6a.png" tvg-id="66895b62927dfd82cd3b2db65ef8d2a2" tvg-chno="6",VTV5 HD - Tây Nam Bộ
+http://10.0.10.14:9981/stream/channelid/1650166118?profile=pass
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ATJwYik.jpg" tvg-id="65db3e2429046bc9e6e19a1df36b7b15" tvg-chno="7",VTV Cần Thơ HD
+http://10.0.10.14:9981/stream/channelid/608099173?profile=pass
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qW0MBMH.jpg" tvg-id="914b26e35a47eaa628a405cc3aab7201" tvg-chno="8",VTV7 HD
+http://10.0.10.14:9981/stream/channelid/1663454097?profile=pass
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7pgnEzG.jpg" tvg-id="3b9fc028b49b5757233f08a5e605a7b9" tvg-chno="9",VTV8 HD
+http://10.0.10.14:9981/stream/channelid/683712315?profile=pass
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9mL8Ve0.jpg" tvg-id="be18f27d021898e804265696e9fb8f7a" tvg-chno="10",VTV9 HD
+http://10.0.10.14:9981/stream/channelid/2113018046?profile=pass
+#EXTINF:-1 tvg-logo="http://10.0.10.14:9981/imagecache/1" tvg-id="c7168c4535418df9ca45cddb0b47cfe8" tvg-chno="11",THVL1 HD
+http://10.0.10.14:9981/stream/channelid/1166808775?profile=pass
+#EXTINF:-1 tvg-logo="http://10.0.10.14:9981/imagecache/2" tvg-id="d993495c7ace1671bbc3a2196b5eb659" tvg-chno="12",THVL2 HD
+http://10.0.10.14:9981/stream/channelid/1548325849?profile=pass
+#EXTINF:-1 tvg-logo="http://10.0.10.14:9981/imagecache/3" tvg-id="2b43a851c5744641a73e13f52b213adf" tvg-chno="13",THVL3 HD
+http://10.0.10.14:9981/stream/channelid/1369981739?profile=pass
+#EXTINF:-1 tvg-logo="http://10.0.10.14:9981/imagecache/4" tvg-id="e91aa402968620273b767a5b8598e6f4" tvg-chno="14",THVL4 HD
+http://10.0.10.14:9981/stream/channelid/44309225?profile=pass
+#EXTINF:-1 tvg-logo="https://imgur.com/Pc2ZuX0.png" tvg-id="9a1a3ed8819d3f125c91f23d911eb5ff" tvg-chno="15",VTC1 HD 
+http://10.0.10.14:9981/stream/channelid/1480465050?profile=pass
+#EXTINF:-1 tvg-logo="https://imgur.com/1FccD2h.png" tvg-id="ebc41b403c121685e6b6fdec7a4c4026" tvg-chno="16",VTC2
+http://10.0.10.14:9981/stream/channelid/1075561707?profile=pass
+#EXTINF:-1 tvg-logo="https://imgur.com/vemNwkI.png" tvg-id="52e5a0e4eeac09c7f72faf8cb557b390" tvg-chno="17",VTC3 HD 
+http://10.0.10.14:9981/stream/channelid/1688266066?profile=pass
+#EXTINF:-1 tvg-logo="https://imgur.com/0dkRtxJ.png" tvg-id="fa64a7c83d3308532fbb1b6f583d6e8a" tvg-chno="18",VTC4 HD 
+http://10.0.10.14:9981/stream/channelid/1218929914?profile=pass
+#EXTINF:-1 tvg-logo="https://imgur.com/IDkKiEa.png" tvg-id="896f48d71d3fc7e38df95431a01f0412" tvg-chno="19",VTC5 HD
+http://10.0.10.14:9981/stream/channelid/1464364937?profile=pass
+#EXTINF:-1 tvg-logo="https://imgur.com/rTxMJIB.png" tvg-id="0f66d74589a87cf1dc758d0d756df0be" tvg-chno="20",VTC6 HD
+http://10.0.10.14:9981/stream/channelid/1171744271?profile=pass
+#EXTINF:-1 tvg-logo="https://imgur.com/sDWf2Q1.png" tvg-id="27d64f00d9b8d0d945d88c1fc9ff0cbe" tvg-chno="21",VTC7 HD
+http://10.0.10.14:9981/stream/channelid/5232167?profile=pass
+#EXTINF:-1 tvg-logo="https://imgur.com/cQ8Ygbk.png" tvg-id="cbdb480ee7afc6db45f688e49055f04a" tvg-chno="22",VTC8
+http://10.0.10.14:9981/stream/channelid/239655883?profile=pass
+#EXTINF:-1 tvg-logo="https://imgur.com/QuXPUqi.png" tvg-id="277cddfd4eb97a4aeff8bdb29b9680b8" tvg-chno="23",VTC9 HD 
+http://10.0.10.14:9981/stream/channelid/2111667239?profile=pass
+#EXTINF:-1 tvg-logo="https://imgur.com/F6x7ZNA.png" tvg-id="f0153768fe74d3a0f9a365445c48541e" tvg-chno="24",VTC10
+http://10.0.10.14:9981/stream/channelid/1748440560?profile=pass
+#EXTINF:-1 tvg-logo="https://imgur.com/RoTy0Ly.png" tvg-id="1897b8c90c4fc6ba73735801eb84a58c" tvg-chno="25",VTC11
+http://10.0.10.14:9981/stream/channelid/1236834072?profile=pass
+#EXTINF:-1 tvg-logo="https://imgur.com/jlvmYDY.png" tvg-id="1d971446e48a56720a50b23b8cd67283" tvg-chno="26",VTC14 HD 
+http://10.0.10.14:9981/stream/channelid/1175754525?profile=pass
+#EXTINF:-1 tvg-logo="https://imgur.com/kpD8AAE.png" tvg-id="8f1a66f3de1a3412e4962fbe94b78b7f" tvg-chno="27",VTC16
+http://10.0.10.14:9981/stream/channelid/1936071311?profile=pass
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lvYjN2D.jpg" tvg-id="774e6e136ad2e0690ce1a0ba37f63071" tvg-chno="28",ANTV HD 
+http://10.0.10.14:9981/stream/channelid/325996151?profile=pass
+#EXTINF:-1 tvg-logo="https://imgur.com/XaaTCtg.jpg" tvg-id="ded1d606b4894bcce701c52fdf89a07d" tvg-chno="29",HTV1
+http://10.0.10.14:9981/stream/channelid/114741726?profile=pass
+#EXTINF:-1 tvg-logo="https://imgur.com/aFUOlhc.jpg" tvg-id="eaf3e273f6115b3449ae10b5076cfe4c" tvg-chno="30",HTV2 HD
+http://10.0.10.14:9981/stream/channelid/1944253418?profile=pass
+#EXTINF:-1 tvg-logo="https://imgur.com/fd4tJg2.jpg" tvg-id="0ef8349d430264c921adadd3fd4853d3" tvg-chno="31",HTV3
+http://10.0.10.14:9981/stream/channelid/490010638?profile=pass
+#EXTINF:-1 tvg-logo="https://imgur.com/6iugioT.jpg" tvg-id="13d1e1c81f08a31131b5c736a3494fb8" tvg-chno="32",HTV7 HD 
+http://10.0.10.14:9981/stream/channelid/1222758675?profile=pass
+#EXTINF:-1 tvg-logo="https://imgur.com/KnpPVUB.jpg" tvg-id="f9eeb0f15c98d952ede2c4df1a2e2446" tvg-chno="33",HTV9 HD 
+http://10.0.10.14:9981/stream/channelid/1907420921?profile=pass
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pQYcNMU.jpg" tvg-id="e9c7ab92149fd91f002abe58d6e01e6f" tvg-chno="34",HTVC Ca Nhạc HD
+http://10.0.10.14:9981/stream/channelid/313247721?profile=pass
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mvQ37T0.jpg" tvg-id="17be5d441b55b96590996a61970dfe3a" tvg-chno="35",HTVC Du Lịch và Cuộc Sống HD
+http://10.0.10.14:9981/stream/channelid/1146994199?profile=pass
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tDOkgfV.jpg" tvg-id="0f408ea14cb96834c994a6e37633c5a3" tvg-chno="36",HTVC Gia Đình HD
+http://10.0.10.14:9981/stream/channelid/562970639?profile=pass
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pNG3Fri.png" tvg-id="d3aad917408102616df99d0c48886eec" tvg-chno="37",HTVC Phim HD
+http://10.0.10.14:9981/stream/channelid/400141011?profile=pass
+#EXTINF:-1 tvg-logo="https://i.imgur.com/diEuUuw.jpg" tvg-id="6ca4690d2f08f4236b309675bb62749c" tvg-chno="38",HTVC Phụ Nữ HD
+http://10.0.10.14:9981/stream/channelid/225027180?profile=pass
+#EXTINF:-1 tvg-logo="https://imgur.com/LFL1x49.jpg" tvg-id="6558a3f4f7c77d45afb02827e8d8fb75" tvg-chno="39",HTVC Thuần Việt HD
+http://10.0.10.14:9981/stream/channelid/1956862053?profile=pass
+#EXTINF:-1 tvg-logo="https://i.imgur.com/O7ZxJNQ.png" tvg-id="5c2ce0d2e25e26af940ca591529f3fe8" tvg-chno="40",HTVC+ 
+http://10.0.10.14:9981/stream/channelid/1390423132?profile=pass
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dcjQ1eA.jpg" tvg-id="ac8e6df68b6966ac123f88b78b4bed95" tvg-chno="41",QPVN HD
+http://10.0.10.14:9981/stream/channelid/1986891436?profile=pass
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MGLFyKb.png" tvg-id="3c4bf9df8972a4281b2f208850d0ac95" tvg-chno="42",VOV TV
+http://10.0.10.14:9981/stream/channelid/1610173244?profile=pass
+#EXTINF:-1 tvg-logo="https://i.imgur.com/713vQig.jpg" tvg-id="055bc92e7393e9063edb70bdeb306154" tvg-chno="43",Quốc Hội HD 
+http://10.0.10.14:9981/stream/channelid/784947973?profile=pass
+#EXTINF:-1 tvg-logo="http://10.0.10.14:9981/imagecache/5" tvg-id="86fcfae14a7b0fbcb00e2ed1b47f3d04" tvg-chno="44",AXN 
+http://10.0.10.14:9981/stream/channelid/1643838598?profile=pass
+#EXTINF:-1 tvg-logo="http://10.0.10.14:9981/imagecache/6" tvg-id="723b384eb0f06767f7faac58afec9fec" tvg-chno="45",HBO 
+http://10.0.10.14:9981/stream/channelid/1312308082?profile=pass
+#EXTINF:-1 tvg-logo="http://10.0.10.14:9981/imagecache/7" tvg-id="23075285e15d24122e13f252d69bfacf" tvg-chno="46",Da Vinci 
+http://10.0.10.14:9981/stream/channelid/89261859?profile=pass
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Lh9aWAL.jpg" tvg-id="c4a68a637b8fdad32271fa0c744d266c" tvg-chno="47",VNEWS 
+http://10.0.10.14:9981/stream/channelid/1670031044?profile=pass
+#EXTINF:-1 tvg-logo="http://10.0.10.14:9981/imagecache/8" tvg-id="b3e1c85f6defda46ea12022bd0937733" tvg-chno="48",Asian Food Network 
+http://10.0.10.14:9981/stream/channelid/1607000499?profile=pass
+#EXTINF:-1 tvg-logo="http://10.0.10.14:9981/imagecache/9" tvg-id="68af9e083e883aec10a6bf59da9d8a69" tvg-chno="49",CARTOON NETWORK HD
+http://10.0.10.14:9981/stream/channelid/144617320?profile=pass
+#EXTINF:-1 tvg-logo="http://10.0.10.14:9981/imagecache/10" tvg-id="c82625dad47012061d9a704dab6650d6" tvg-chno="50",DW 
+http://10.0.10.14:9981/stream/channelid/1512384200?profile=pass
+#EXTINF:-1 tvg-logo="http://10.0.10.14:9981/imagecache/11" tvg-id="d426ed8b264eda42c8c3b293033b94fe" tvg-chno="51",Fashion TV 
+http://10.0.10.14:9981/stream/channelid/200091348?profile=pass
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kzrCtPg.jpg" tvg-id="d3fe348faeb06acc41329ee12731fd52" tvg-chno="52",Nhân Dân TV 
+http://10.0.10.14:9981/stream/channelid/255131347?profile=pass
+#EXTINF:-1 tvg-logo="http://10.0.10.14:9981/imagecache/12" tvg-id="439a6af21944ba3483bffe84177c5745" tvg-chno="53",FRANCE 24 (English) 
+http://10.0.10.14:9981/stream/channelid/1919588931?profile=pass
+#EXTINF:-1 tvg-logo="http://10.0.10.14:9981/imagecache/13" tvg-id="71872847b7f87407d3492d1f3127d3a6" tvg-chno="54",BBC Earth 
+http://10.0.10.14:9981/stream/channelid/1193838449?profile=pass
+#EXTINF:-1 tvg-logo="http://10.0.10.14:9981/imagecache/14" tvg-id="844ee97dd8ae8a5b0dd93e87b8b32482" tvg-chno="55",Animal Planet 
+http://10.0.10.14:9981/stream/channelid/2112441988?profile=pass
+#EXTINF:-1 tvg-logo="http://10.0.10.14:9981/imagecache/15" tvg-id="ab7fcb4e88581f92e78c7232b54a48ac" tvg-chno="56",Outdoor Channel 
+http://10.0.10.14:9981/stream/channelid/1321959339?profile=pass
+#EXTINF:-1 tvg-logo="http://10.0.10.14:9981/imagecache/16" tvg-id="a9c4f249706f3188eb7c1b39e8787256" tvg-chno="57",TV5 MONDE ASIE 
+http://10.0.10.14:9981/stream/channelid/1240646825?profile=pass
+#EXTINF:-1 tvg-logo="http://10.0.10.14:9981/imagecache/17" tvg-id="e1daa4d7bc9c7493cf418afee17a4e88" tvg-chno="58",CNA 
+http://10.0.10.14:9981/stream/channelid/1470421729?profile=pass
+#EXTINF:-1 tvg-logo="http://10.0.10.14:9981/imagecache/18" tvg-id="9963964c42d8b7de086cef27abeb361b" tvg-chno="59",BBC WORLD NEWS 
+http://10.0.10.14:9981/stream/channelid/1284924313?profile=pass
+#EXTINF:-1 tvg-logo="http://10.0.10.14:9981/imagecache/19" tvg-id="8b492ae535f26f36d7712ac7ef06425c" tvg-chno="60",CNN 
+http://10.0.10.14:9981/stream/channelid/1697270155?profile=pass
+#EXTINF:-1 tvg-logo="http://10.0.10.14:9981/imagecache/20" tvg-id="f66ace218c68e4e8014dff96baf9c751" tvg-chno="61",BBC CbeeBies 
+http://10.0.10.14:9981/stream/channelid/567175926?profile=pass
+#EXTINF:-1 tvg-logo="http://10.0.10.14:9981/imagecache/21" tvg-id="fe4ad121d308c44ab7ff920c82454606" tvg-chno="62",WBTV 
+http://10.0.10.14:9981/stream/channelid/567364350?profile=pass
+#EXTINF:-1 tvg-logo="http://10.0.10.14:9981/imagecache/22" tvg-id="b64c742582e3c05b13e4789a800b4a37" tvg-chno="63",BBC Lifestyle 
+http://10.0.10.14:9981/stream/channelid/628378806?profile=pass
+#EXTINF:-1 tvg-logo="http://10.0.10.14:9981/imagecache/23" tvg-id="46978ba41aedb018ce04453f5c1af274" tvg-chno="64",Animax 
+http://10.0.10.14:9981/stream/channelid/613128006?profile=pass
+#EXTINF:-1 tvg-logo="http://10.0.10.14:9981/imagecache/24" tvg-id="c002dc5b5d26541625511f5b19bcb208" tvg-chno="65",SCTV6 HD
+http://10.0.10.14:9981/stream/channelid/1541145280?profile=pass
+#EXTINF:-1 tvg-logo="http://10.0.10.14:9981/imagecache/25" tvg-id="854c0eaa3a8732c00e8085a813113bae" tvg-chno="66",ABC AUSTRALIA 
+http://10.0.10.14:9981/stream/channelid/705580165?profile=pass
+#EXTINF:-1 tvg-logo="http://10.0.10.14:9981/imagecache/26" tvg-id="86811929c4c903a73ded855a8c09a151" tvg-chno="67",Dreamworks 
+http://10.0.10.14:9981/stream/channelid/689537414?profile=pass
+#EXTINF:-1 tvg-logo="http://10.0.10.14:9981/imagecache/27" tvg-id="b32061ace482d201759b135c81ab999d" tvg-chno="68",KBS WORLD 
+http://10.0.10.14:9981/stream/channelid/744562867?profile=pass
+#EXTINF:-1 tvg-logo="http://10.0.10.14:9981/imagecache/28" tvg-id="d4026bf1211a43917ae959a888804b74" tvg-chno="69",KIX 
+http://10.0.10.14:9981/stream/channelid/1902838484?profile=pass
+#EXTINF:-1 tvg-logo="http://10.0.10.14:9981/imagecache/29" tvg-id="fecbe4d0ceeb54ad2e3652ad9e39386e" tvg-chno="70",NHK WORLD JAPAN 
+http://10.0.10.14:9981/stream/channelid/1357171710?profile=pass
+#EXTINF:-1 tvg-logo="http://10.0.10.14:9981/imagecache/30" tvg-id="6a5624b1b25a6bc5c7bf6e1b9b9fe7e6" tvg-chno="71",Discovery Channel 
+http://10.0.10.14:9981/stream/channelid/824465002?profile=pass
+#EXTINF:-1 tvg-logo="http://10.0.10.14:9981/imagecache/31" tvg-id="15d0333a7b7640406e07abbde41ac9cf" tvg-chno="72",Bloomberg 
+http://10.0.10.14:9981/stream/channelid/976474133?profile=pass
+#EXTINF:-1 tvg-logo="http://10.0.10.14:9981/imagecache/32" tvg-id="a8f1183f75714de045f2fac83e1b23f2" tvg-chno="73",TLC 
+http://10.0.10.14:9981/stream/channelid/1058599336?profile=pass
